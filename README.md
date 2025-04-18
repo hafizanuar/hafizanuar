@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hafizanuar
-- 👀 I’m interested in web design & game dev
-- 🌱 I’m currently learning web design & game dev, duh
-- 💞️ I’m looking to collaborate on nothing lol
-- 📫 How to reach me ... dont contact me pls
+- 👀 I’m interested in FOSS
+- 📫 Reach me at mhafizanuar99@gmail.com
 
 <!---
 hafizanuar/hafizanuar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
