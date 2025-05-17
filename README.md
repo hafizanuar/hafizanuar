@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafizanuar
 - 👀 I’m interested in FOSS
-- 📫 Reach me at mhafizanuar99@gmail.com
+- 📫 Reach me at mhafizanuar@protonmail.com
 
 <!---
 hafizanuar/hafizanuar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
